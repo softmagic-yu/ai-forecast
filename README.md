@@ -18,12 +18,14 @@ quasar create ai-forecast
 5) Pick your favorite CSS preprocessor > 엔터
 6) Pick a Quasar components & directives import strategy > 엔터
 7) Check the features needed for your project
->( ) ESLint (recommended)
->( ) TypeScript
->(*) Vuex
->(*) Axios
->(*) Vue-i18n
->( ) IE11 support
+```
+( ) ESLint (recommended)
+( ) TypeScript
+(*) Vuex
+(*) Axios
+(*) Vue-i18n
+( ) IE11 support
+```
 8) Pick an ESLint preset:
 > Standard (https://github.com/standard/standard)
 9) Continue to install project dependencies after the project has been created?
