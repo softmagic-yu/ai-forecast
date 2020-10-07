@@ -46,5 +46,5 @@ quasar dev
 4) Installation으로 이동 https://quasar.dev/quasar-cli/installation
 
 ## 개발 툴
-비주얼 스튜디오 코드 https://code.visualstudio.com/
-비주얼 스튜디오 코드 설정 https://quasar.dev/start/vs-code-configuration#Introduction
+1) 비주얼 스튜디오 코드 https://code.visualstudio.com/
+2) 비주얼 스튜디오 코드 설정 https://quasar.dev/start/vs-code-configuration#Introduction
