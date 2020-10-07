@@ -17,7 +17,7 @@ quasar create ai-forecast
 4) Author > 팀이름
 5) Pick your favorite CSS preprocessor > 엔터
 6) Pick a Quasar components & directives import strategy > 엔터
-7) Check the features needed for your project:
+7) Check the features needed for your project
  (*) ESLint (recommended)
  ( ) TypeScript
  (*) Vuex
