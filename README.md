@@ -48,3 +48,6 @@ quasar dev
 ## 개발 툴
 1) 비주얼 스튜디오 코드 https://code.visualstudio.com/
 2) 비주얼 스튜디오 코드 설정 https://quasar.dev/start/vs-code-configuration#Introduction
+
+## vue.js 문법
+https://kr.vuejs.org/v2/guide/syntax.html
