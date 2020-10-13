@@ -53,9 +53,9 @@ quasar dev
 https://kr.vuejs.org/v2/guide/syntax.html
 
 ## 예제 
-https://github.com/quasarframework/quasar-awesome
-https://quasar-admin-demo.netlify.app/
-https://github.com/pratik227/quasar-admin
+1) https://github.com/quasarframework/quasar-awesome
+2) https://quasar-admin-demo.netlify.app/
+3) https://github.com/pratik227/quasar-admin
 
 ## AXIOS
 https://joshua1988.github.io/vue-camp/vue/axios.html
