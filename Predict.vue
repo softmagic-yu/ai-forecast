@@ -112,7 +112,7 @@ import { LocalStorage } from "quasar";
 
 
 import LineChart from '../components/charts/LineChart.js'
-import BarChart from '../components/charts/Barchart.js'
+import BarChart from '../components/charts/BarChart.js'
 
 export default {
   name: "Predict",
